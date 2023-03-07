@@ -18,7 +18,7 @@ const Header = () => {
 
       <HeaderSearch>
         <SearchIcon className="search" />
-        <input placeholder="Search PAPAFAM" />
+        <input placeholder="Search Davinci" />
       </HeaderSearch>
 
       <HeaderRight>
